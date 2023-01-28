@@ -1,0 +1,63 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    text-align: center;
+    font-style: arial;
+    font-size: 100px;
+    color: white;
+}
+
+h2 {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    font-style: arial;
+    font-size: 40px;
+    color: white;
+}
+
+main ol {
+    width: 45%;
+    display: block;
+    margin: 0 auto;
+    font-style: arial;
+    font-size: 40px;
+}
+
+main p {
+    width: 45%;
+    display: block;
+    margin: 50px auto;
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+
+footer {
+    width: 50%;
+    display: block;
+    margin: 50px auto;
+    text-align: center;
+    color: black;
+    font-size: 45px;
+}
+
+img {
+    width: 20%;
+    display: block;
+    margin: 60px auto;
+}
+
+
+h1:hover {
+    color: black;
+}
