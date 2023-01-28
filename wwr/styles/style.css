@@ -1,6 +1,10 @@
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
 
-nav a, #hero-msg h1, #hero-msg h4, .button-box, main section
-{
+
+nav a, #hero-msg h1, #hero-msg h4, .button-box, main section {
     text-align: center;
 }
 
@@ -50,7 +54,7 @@ footer a:hover {
     color:rgb(222, 96, 33)
 }
 
-.icon {
+.logo, .icon {
     width: 80px;
 }
 
