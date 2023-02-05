@@ -1,0 +1,20 @@
+
+main {
+    width: 1208px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+section {
+    background-color: gray;
+    width: 1280px;
+}
+
+
+.desk, .graphic, .person {
+    margin: 35px;
+    width: 20%;
+    border: 15px solid rgba(3, 3, 3, 0.31);
+    border-radius: 50%;
+}
