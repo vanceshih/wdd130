@@ -43,7 +43,7 @@ nav a:hover {
 }
 
 .msg {
-    background-color: rgb(144, 234, 210);
+    background-color: #66bef4;
     line-height: 1.0em;
     padding: 25px;
     grid-column: 5/10;
@@ -59,9 +59,14 @@ footer {
     align-items: center;
 }
 
-nav a, .home-title, h4, h2, .msg h2, footer {
+nav a, .msg h2, footer {
     color:rgb(14, 6, 2);
 }
+
+.home-title, h2 {
+    color: #585e04;
+}
+
 
 footer a {
     color:rgb(35, 19, 11)
