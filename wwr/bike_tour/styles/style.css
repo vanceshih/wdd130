@@ -14,14 +14,9 @@ nav a, main section {
     text-align: center;
 }
 
-#background {
-    height: 725px;
-    background-color:rgb(175, 175, 231);
-}
-
 body {
-    background-color: #b8d9ef; 
-    font-family: 'roboto slab';
+    background-color: #4dd94d; 
+    font-family: 'Lato, Helvetica, sans-serif';
     margin: 0;
     padding: 0;
 }
@@ -38,18 +33,13 @@ header {
 nav {
     display: flex;
     justify-content: space-around;
+    font-size: 1.5em;
 }
 
 
 nav a:hover {
     background-color: #8f8373;
     color: #d9c2a3;
-}
-
-
-.book:hover{
-    background-color: rgb(135, 166, 168);
-    color:rgb(235, 239, 245)
 }
 
 .msg {
@@ -62,7 +52,7 @@ nav a:hover {
 }
 
 footer {
-    background-color: rgb(229, 206, 190);
+    background-color: #e6c72d;
     padding: 25px 50px;
     display: flex;
     justify-content: space-around;
@@ -94,7 +84,7 @@ nav a, .book, .join, footer a {
 }
 
 footer p {
-    font-size: 1.2em;
+    font-size: 1.5em;
 }
 
 footer p a:hover {
@@ -102,7 +92,7 @@ footer p a:hover {
 }    
 
 .home-title, .msg h2 {
-    font-family: 'anton', 'courgatte';
+    font-family: 'IM Fell French Canon SC';
     font-size: 2em;
 }
 
