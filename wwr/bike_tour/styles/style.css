@@ -110,9 +110,9 @@ footer p a:hover {
     font-size: 2em;
 }
 
-.card-img, .mountains {
+/* .card-img {
     width: 100%;
-}
+} */
 
 .card-img {
     border: 10px solid rgb(214, 233, 237);
@@ -125,9 +125,9 @@ footer p a:hover {
     transform: scale(1.1);
 }
 
-main section img {
+/* main section img {
     box-sizing: border-box;
-}
+} */
 
 nav a {
     text-decoration: none;
@@ -144,23 +144,12 @@ footer .social img {
     margin: 200px 0;
 }
 
-.home-grid {
+/* .home-grid {
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;    
-}
+} */
 
 
-
-#feedback {
-    background-color: antiquewhite;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    padding: .5em;
-    /* make this element invisible until we are ready for it */
-    display: none;      
-}
-.moveDown {
-    margin-top: 3em;
-}
+/* .biketour-box {
+    width: 200%;
+} */
