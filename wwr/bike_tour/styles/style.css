@@ -54,16 +54,12 @@ nav a:hover {
 
 .msg {
     background-color: rgb(144, 234, 210);
-    line-height: 1.5em;
-    padding: 35px;
+    line-height: 1.0em;
+    padding: 25px;
     grid-column: 5/10;
-    /* grid-row: 3/7; */
     box-shadow: 5px 5px 10px #6f7364;
+    text-align: left;
 }
-
-/* .msp g {
-    padding-bottom: 15px;
-} */
 
 footer {
     background-color: rgb(229, 206, 190);
