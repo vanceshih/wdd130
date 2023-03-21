@@ -56,14 +56,14 @@ nav a:hover {
     background-color: rgb(144, 234, 210);
     line-height: 1.5em;
     padding: 35px;
-    grid-column: 6/10;
-    grid-row: 6/7;
+    grid-column: 5/10;
+    /* grid-row: 3/7; */
     box-shadow: 5px 5px 10px #6f7364;
 }
 
-.msp g {
+/* .msp g {
     padding-bottom: 15px;
-}
+} */
 
 footer {
     background-color: rgb(229, 206, 190);
@@ -73,7 +73,7 @@ footer {
     align-items: center;
 }
 
-nav a, .home-title, h4, h2, .msg h2, .msg p, footer {
+nav a, .home-title, h4, h2, .msg h2, footer {
     color:rgb(14, 6, 2);
 }
 
@@ -110,9 +110,9 @@ footer p a:hover {
     font-size: 2em;
 }
 
-/* .card-img {
+.card-img {
     width: 100%;
-} */
+}
 
 .card-img {
     border: 10px solid rgb(214, 233, 237);
@@ -140,13 +140,13 @@ footer .social img {
     padding-top: 15px;
 }
 
-.background, .msg, footer {
+.background, footer {
     margin: 200px 0;
 }
 
-/* .home-grid {
+.home-grid {
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;    
-} */
+}
 
 
